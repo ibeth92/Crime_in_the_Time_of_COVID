@@ -1,0 +1,5 @@
+8/15/2020
+Split up crime data into two smaller files for 2019/2020 Feb - July (6months)
+
+8/18/2020
+started on seperating out assualt crimes
