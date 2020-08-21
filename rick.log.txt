@@ -9,3 +9,6 @@ going through many crime categories to find any significant changes.
 
 Did bar graphs on 2 categories
 Did google map hot zones for 2 categories
+
+8/21/2020
+added murder bar plot and geo maps
