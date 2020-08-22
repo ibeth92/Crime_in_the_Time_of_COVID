@@ -6,3 +6,9 @@ started on seperating out assualt crimes
 
 8/20/2020
 going through many crime categories to find any significant changes
+
+8/21/2020
+added bar charts and lines graphs
+
+8/22/2020
+went over with group and copied out plot jpegs
