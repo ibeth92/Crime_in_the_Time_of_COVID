@@ -1,0 +1,14 @@
+8/15/2020
+Split up crime data into two smaller files for 2019/2020 Feb - July (6months)
+
+8/18/2020
+started on seperating out assualt crimes
+
+8/20/2020
+going through many crime categories to find any significant changes
+
+8/21/2020
+added bar charts and lines graphs
+
+8/22/2020
+went over with group and copied out plot jpegs
