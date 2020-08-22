@@ -12,3 +12,6 @@ Did google map hot zones for 2 categories
 
 8/21/2020
 added murder bar plot and geo maps
+cleaned up code and comments
+did line plots on murder, graffiti, assaults and prostitution
+overall finished with my end except presentation
