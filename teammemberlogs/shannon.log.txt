@@ -23,5 +23,6 @@ debugged some code as a group
 made sure master branch of the repo was up to date
 
 8/22/2020
-worked on PowerPoint Presentation and coordinated with team to standardize colors and themes for charts
+worked on PowerPoint Presentation and coordinated with team to standardize colors and themes for charts and merge files
+merged all work to the master branch
 
