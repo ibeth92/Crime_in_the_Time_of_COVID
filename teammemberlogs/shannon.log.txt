@@ -11,9 +11,9 @@ debugged code as a team to create two CSV files for 2019/2020 Feb - July (6 mont
 8/18/2020
 separated out roles and responsibilities:
 1. Vanessa crime by location and learning Plotly
-2. Ibet total crime trend & final write up
+2. Ibet total crime trend & additional categories
 3. Rick filtering data & categories (murder, assault, prostitution, and grafitti) 
-4. Shannon PowerPoint Presentation & categories (DUI/DWI and Public Intoxication)
+4. Shannon PowerPoint Presentation & categories (DUI/DWI and Public Intoxication) & GitHub master
 
 8/20/2020
 discussed what PowerPoint Presentation charts and slides needed and who would do what in presentation (roughly 2.5 mins each)
@@ -25,4 +25,9 @@ made sure master branch of the repo was up to date
 8/22/2020
 worked on PowerPoint Presentation and coordinated with team to standardize colors and themes for charts and merge files
 merged all work to the master branch
+
+8/24/2020
+completed pushing everyone's work to the master branch
+finalized PowerPoint
+scheduled Zoom Meeting with team to discuss presentation and files
 
